@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.fb-signup{
+    margin-top: 125px;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.fb-signup i{
+    color: #000000;
+    font-size: 125px;
+    display: flex;
+    justify-content: center;
+}
+
+.fb-signup h5 i{
+    color: #000000;
+    font-size: 100%;
+    margin: 35px 10px 0 10px;
+    display: inline-block
+}
+
+.fb-signup h2{
+    color: #000000;
+}
+
+.fb-signup a{
+    text-decoration: none;
+    color: #000000;
+    transition: 0.3s;
+}
+
+.fb-signup a h5:hover{
+    transform: scale(1.1)                           ;
+}
